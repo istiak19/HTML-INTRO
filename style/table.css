@@ -1,0 +1,23 @@
+td,th{
+    border: 2px solid tomato;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+}
+nav ul{
+    display: flex;
+}
+ nav li{
+    list-style: none;
+    margin-right: 10px;
+    padding: 5px;
+} 
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+nav li:hover{
+    background-color: aqua;
+    /* transition: 0.1s ease-in; */
+}

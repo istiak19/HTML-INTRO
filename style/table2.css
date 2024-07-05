@@ -1,0 +1,8 @@
+td ,th{
+    border: 2px solid tomato;
+    padding: 20px;
+}
+table{
+    padding: 30px;
+    border-spacing: 25px;
+}

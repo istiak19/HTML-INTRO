@@ -1,0 +1,8 @@
+td,th{
+    border: 3px solid;
+    padding: 5px;
+}
+.w{
+    font-style: italic;
+    font-weight: bold;
+}
